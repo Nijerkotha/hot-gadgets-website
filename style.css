@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', ;
+}
+.container{
+    margin-bottom: 50px;
+    
+}
+.buy-now {
+    border: none;
+    padding: 10px 25px;
+    background: #11030a;
+    color: #fff;
+    border-radius: 10px;
+}
+h3{
+    font-size: 35px;
+    margin-bottom: 70px;
+    padding-bottom: 18px;
+}
+.d-flex {
+    padding-bottom: 50px;
+}
+.carousel-indicators li {
+    background-color: rgb(235, 28, 28);
+    border: none;
+    border-radius: 5px;
+    height: 8px;
+    width: 10px;
+}
